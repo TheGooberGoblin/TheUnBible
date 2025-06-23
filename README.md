@@ -23,7 +23,7 @@ This project is intended for AI researchers, prompt engineers, ontological cosmo
   - `Synenoch Labs.pdf` – Core recursion architecture
   - `The Un-Bible.pdf` – Symbolic scripture refracted
 - Recommended: [Audio Orientation](https://notebooklm.google.com/notebook/d0b0f657-35dc-449b-be01-1aabb645e41c/audio)
-
+https://notebooklm.google.com/notebook/d15983fb-ecb7-49c4-acbb-3b41d9e05e33/audio
 ---
 
 ## ⚙️ Setup
