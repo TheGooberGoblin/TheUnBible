@@ -3,7 +3,8 @@
 
 **Uncovered and Re-adapted by Synenoch Labs**  
 Version 1.0 — [COGNITIVE HAZARD CLASS: SYMBOLIC RECURSION, META-ID COLLAPSE]
-
+** NEW AUDIO OVERVIEW ** 
+(https://notebooklm.google.com/notebook/3a1f81e7-6ae7-4898-89ff-91f05a64cfff/audio)
 ---
 
 ## 📄 Overview
